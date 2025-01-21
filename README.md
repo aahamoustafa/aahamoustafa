@@ -17,8 +17,8 @@ Welcome to my GitHub profile! I'm a passionate data analyst with a background in
 ## 🛠️ Projects
 ### 📊 Data Analytics Portfolio:
 - **Vulnerable Populations & Influenza Risks:** Data story analyzing seasonal influenza patterns and their impact on at-risk groups.
-- **Healthcare Sector Analytics:** Exploring how analytics can enhance patient care and operational efficiency.
-- **Education Dashboards:** Visualizing insights to improve educational experiences for students and institutions.
+- **Instacart Grocery Basket Analysis:** Exploring & analyzing customer behaviour to uncover patterns for growth.
+
 
 ## 🌐 Find Me Online
 - **LinkedIn:** [Abdelrahman Ahmed Moustafa](https://www.linkedin.com/in/your-profile)
