@@ -21,7 +21,7 @@ Welcome to my GitHub profile! I'm a passionate data analyst with a background in
 
 
 ## 🌐 Find Me Online
-- **LinkedIn:** [Abdelrahman Moustafa](www.linkedin.com/in/abdelrahman-moustafa-674764225)
+- **LinkedIn:** [Abdelrahman Moustafa](https://www.linkedin.com/in/abdelrahman-moustafa-674764225/)
 - **Personal Website:** [aahamoustafaanalysis.com](https://www.aahamoustafaanalysis.com)
 
 ---
