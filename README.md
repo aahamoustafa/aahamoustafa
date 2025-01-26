@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm a passionate data analyst with a background in
 - 🎓 **Data Analytics Student** at Career Foundry.
 - 💡 Exploring how **data analytics** and **machine learning** can enhance and improve **user experiences** in various industries.
 - 🌍 Based in **Canada**
-- 📚 Lifelong learner interested in **biology**, **biochemistry**, and **modern history**.
+
 
 ## 🔧 Technologies & Tools
 - **Programming & Analytics:** Python (Pandas, NumPy, Matplotlib), SQL, Tableau
@@ -18,11 +18,12 @@ Welcome to my GitHub profile! I'm a passionate data analyst with a background in
 ### 📊 Data Analytics Portfolio:
 - **Vulnerable Populations & Influenza Risks:** Data story analyzing seasonal influenza patterns and their impact on at-risk groups.
 - **Instacart Grocery Basket Analysis:** Exploring & analyzing customer behaviour to uncover patterns for growth.
+- **Launch Strategy for Online Streaming Service:** Generate data driven insights to launch a competitive streaming platform.
 
 
 ## 🌐 Find Me Online
 - **LinkedIn:** [Abdelrahman Moustafa](https://www.linkedin.com/in/abdelrahman-moustafa-674764225/)
-- **Personal Website:** [aahamoustafaanalysis.com](https://www.aahamoustafaanalysis.com)
+
 
 ---
 
