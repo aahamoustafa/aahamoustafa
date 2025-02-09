@@ -16,7 +16,7 @@ Welcome to my GitHub profile! I'm a passionate data analyst with a background in
 
 ## 🛠️ Projects
 ### 📊 Data Analytics Portfolio:
--- **CitiBike Usage Analysis:** Data story exploring the usage trends of Citibike in New York City.
+- **CitiBike Usage Analysis:** Data story exploring the usage trends of Citibike in New York City.
 - **Vulnerable Populations & Influenza Risks:** Data story analyzing seasonal influenza patterns and their impact on at-risk groups.
 - **Instacart Grocery Basket Analysis:** Exploring & analyzing customer behaviour to uncover patterns for growth.
 - **Launch Strategy for Online Streaming Service:** Generate data driven insights to launch a competitive streaming platform.
